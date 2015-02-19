@@ -1,0 +1,8 @@
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/domain/enums/CommonWord.java
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/controller/BachelorController.java
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/domain/dto/ContestantWordCloudDto.java
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/logic/WordCloudGenerator.java
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/logic/TwitterService.java
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/domain/enums/BachelorContestant.java
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/App.java
+/Users/dsumera/dev/bachelorPredictor/src/main/java/com/j0llysnowman/domain/dto/BachelorDto.java
